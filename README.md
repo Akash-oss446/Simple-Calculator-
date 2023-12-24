@@ -1,4 +1,5 @@
 #Simple Calculator
+
 A simple calculator project using HTML, CSS, and JavaScript involves creating a user interface with buttons for numbers 
 and basic arithmetic operations. The HTML sets up the structure, the CSS styles the elements for a visually pleasing layout,
 and the JavaScript handles the functionality—allowing users to input numbers and operations, display the input/output, 
